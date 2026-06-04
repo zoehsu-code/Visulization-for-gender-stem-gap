@@ -1,7 +1,7 @@
 # The STEM Gap: What’s Changing — and What Isn’t
 Interactive narrative project for **SI 649: Information Visualization** (University of Michigan).
 
-🌐 **Live site:** https://zoehsu-code.github.io/SI649-finalproject-revised/
+🌐 **Live site:** [https://zoehsu-code.github.io/SI649-finalproject-revised/](https://zoehsu-code.github.io/Visulization-for-gender-stem-gap/)
 
 ## Overview
 This project is a scrollytelling-style, interactive narrative that explores gender representation in STEM across countries, disciplines, and time. It combines data-driven visualizations with editorial storytelling to help readers understand what has improved, what remains stagnant, and where disparities persist.
